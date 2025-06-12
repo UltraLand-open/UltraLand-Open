@@ -16,15 +16,23 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748114107963
-  login: 1748114062215
+  logout: 1749769763673
+  login: 1749769714671
 money: '0'
 last-account-name: .ElGatogamer7940
 logoutlocation:
   world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
   world-name: etc
-  x: 29.17379
-  y: 206.0
-  z: 1.3743875
-  yaw: -35.06968688964844
-  pitch: 22.030960083007812
+  x: 11.8322525
+  y: 221.02446
+  z: 0.3628457
+  yaw: 83.49334716796875
+  pitch: 27.348556518554688
+lastlocation:
+  world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
+  world-name: etc
+  x: 0.5405878
+  y: 220.0
+  z: -6.784758
+  yaw: -23.78143310546875
+  pitch: 13.156204223632812
