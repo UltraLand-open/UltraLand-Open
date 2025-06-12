@@ -1,0 +1,648 @@
+Name: Rara Crate
+Description: []
+ItemProvider:
+  Type: VANILLA
+  Tag:
+    Value: '{components:{"minecraft:custom_name":''{"bold":false,"extra":["Rara Crate"],"italic":false,"obfuscated":false,"strikethrough":false,"text":"","underlined":false}'',"minecraft:hide_additional_tooltip":{},"minecraft:profile":{id:[I;-850160402,1534147744,-2009838519,1945945916],name:"1ff041976a09dd05",properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZmMDQxOTc2YTA5ZGQwNTNlM2QxZDRlNjExYWFjMDk1OTRkNzRmYzcxYTBlYzRkYTAxMTA0MTZkMzE3ZGJhOCJ9fX0="}]}},count:1,id:"minecraft:player_head"}'
+    DataVersion: 4082
+ItemStackable: false
+Permission_Required: false
+Preview:
+  Enabled: true
+  Id: default
+Animation:
+  Enabled: true
+  Id: csgo
+Opening:
+  Cooldown: 0
+Key:
+  Required: true
+  Ids:
+  - rara_key
+Block:
+  Positions:
+  - -12,231,-36,etc
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Template: rara
+    Y_Offset: 0.0
+  Effect:
+    Model: helix
+    Particle:
+      Name: CLOUD
+Milestones:
+  Repeatable: false
+_dataver: 600
+Rewards:
+  List:
+    fragmento_de_cristal_extrao:
+      Type: ITEM
+      Weight: 65.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"light_purple","italic":true,"obfuscated":false,"strikethrough":false,"text":"Fragmento de cristal extraño","underlined":true}],"text":""}'',"minecraft:enchantment_glint_override":1b,"minecraft:lore":[''""'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"Un extraño fragmento de cristal","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"se
+              ve raro , mejor sera guardarlo","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"green","italic":true,"obfuscated":false,"strikethrough":false,"text":"y para que crees que servira?","underlined":false}],"text":""}'']},count:10,id:"minecraft:amethyst_shard"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    botas_raras:
+      Type: ITEM
+      Weight: 72.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Botas Raras","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:feather_falling":5,"minecraft:mending":1,"minecraft:protection":6,"minecraft:unbreaking":5}}},count:1,id:"minecraft:diamond_boots"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    peto_raro:
+      Type: ITEM
+      Weight: 72.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Peto Raro","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:mending":1,"minecraft:protection":6,"minecraft:unbreaking":5}}},count:1,id:"minecraft:diamond_chestplate"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    casco_raro:
+      Type: ITEM
+      Weight: 72.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Casco Raro","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:mending":1,"minecraft:protection":6,"minecraft:unbreaking":5}}},count:1,id:"minecraft:diamond_helmet"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    grebas_raras:
+      Type: ITEM
+      Weight: 72.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Grebas Raras","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:mending":1,"minecraft:protection":6,"minecraft:unbreaking":5}}},count:1,id:"minecraft:diamond_leggings"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    dark_blade:
+      Type: ITEM
+      Weight: 75.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:6.0d,id:"minecraft:083cc817-6b01-48fd-a13f-cd27e6f51a61",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"},{amount:2.5d,id:"minecraft:2f39075e-cf00-446d-86d2-1fa1d6b30708",operation:"add_value",slot:"mainhand",type:"minecraft:attack_speed"}]},"minecraft:custom_name":''{"extra":[{"bold":true,"color":"dark_gray","italic":false,"obfuscated":false,"strikethrough":false,"text":"Dark ","underlined":false},{"bold":true,"color":"gray","italic":false,"text":"Blade"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:looting":3,"minecraft:mending":1,"minecraft:sharpness":6,"minecraft:sweeping_edge":7,"minecraft:unbreaking":5,"minecraft:wither":3}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤
+              ","underlined":false},{"bold":false,"color":"gray","italic":false,"text":"Con esta \\"espada\\" que parece que puedes meter efecto wither"}],"text":""}'',''{"extra":[{"bold":false,"color":"gray","italic":false,"obfuscated":false,"strikethrough":false,"text":"Sin Embargo Tambien se ve que no es muy fuerte","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"gray","italic":false,"obfuscated":false,"strikethrough":false,"text":" Aunque tambien se ve que hace cortes rapidos","underlined":false}],"text":""}'']},count:1,id:"minecraft:netherite_sword"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    molten_sword:
+      Type: ITEM
+      Weight: 75.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:1.1d,id:"minecraft:2f2bc2b6-297a-4200-93eb-31503313e48a",operation:"add_value",slot:"mainhand",type:"minecraft:attack_speed"},{amount:8.0d,id:"minecraft:01b3d4fd-1972-4130-8856-ee6d7b4453ba",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"}]},"minecraft:custom_name":''{"extra":[{"bold":true,"color":"gold","italic":false,"obfuscated":false,"strikethrough":false,"text":"Molten Sword","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:fire_aspect":4,"minecraft:looting":4,"minecraft:mending":1,"minecraft:sharpness":8,"minecraft:sweeping_edge":5,"minecraft:unbreaking":5}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤
+              ","underlined":false},{"bold":false,"color":"yellow","italic":false,"text":"Una espada bastante caliente"}],"text":""}'',''{"extra":[{"bold":false,"color":"yellow","italic":false,"obfuscated":false,"strikethrough":false,"text":"Se ve que tus enemigos sufriran quemaduras","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"yellow","italic":false,"obfuscated":false,"strikethrough":false,"text":"Un Poco Muy graves","underlined":false}],"text":""}'']},count:1,id:"minecraft:netherite_sword"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    mystical_spellblade:
+      Type: ITEM
+      Weight: 75.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:7.0d,id:"minecraft:58bbd3d4-ae0f-4b8c-949f-cbe9400c491c",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"},{amount:1.8d,id:"minecraft:500116d9-2c2a-48dd-bbf6-9eb9a5bc2fba",operation:"add_value",slot:"mainhand",type:"minecraft:attack_speed"}]},"minecraft:custom_name":''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"Mystical ","underlined":false},{"bold":true,"color":"light_purple","italic":false,"text":"Spellblade"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:looting":6,"minecraft:mending":1,"minecraft:scavenger":3,"minecraft:sharpness":7,"minecraft:sweeping_edge":3,"minecraft:unbreaking":5,"minecraft:venom":2}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤
+              ","underlined":false},{"bold":false,"color":"light_purple","italic":false,"text":"Una Arma Tambien bastante elegante y bonita"}],"text":""}'',''{"extra":[{"bold":false,"color":"light_purple","italic":false,"obfuscated":false,"strikethrough":false,"text":"Se ve que tiene el aspecto de una flor especial","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"light_purple","italic":false,"obfuscated":false,"strikethrough":false,"text":"Tendra poderes de una Flor parece","underlined":false}],"text":""}'']},count:1,id:"minecraft:netherite_sword"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    sculk_cleaver:
+      Type: ITEM
+      Weight: 75.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"dark_blue","italic":false,"obfuscated":false,"strikethrough":false,"text":"Sculk ","underlined":false},{"bold":true,"color":"dark_gray","italic":false,"text":"Cleaver"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:exp_hunter":3,"minecraft:looting":4,"minecraft:mending":1,"minecraft:sharpness":9,"minecraft:sweeping_edge":6,"minecraft:unbreaking":6,"minecraft:venom":2}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤","underlined":false}],"text":""}'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤
+              ","underlined":false},{"bold":false,"color":"gray","italic":false,"text":"Esta \\"Espada\\" Bastante grande parece ser fuerte pero lenta"}],"text":""}'',''{"extra":[{"bold":false,"color":"gray","italic":false,"obfuscated":false,"strikethrough":false,"text":"Se Ve que ganas mas EXP y Tendras chances de meter veneno","underlined":false}],"text":""}'']},count:1,id:"minecraft:netherite_sword"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    sculk_scythe:
+      Type: ITEM
+      Weight: 75.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:attribute_modifiers":{modifiers:[{amount:7.0d,id:"minecraft:2beed3c6-f960-4100-9e39-d48fadd39160",operation:"add_value",slot:"mainhand",type:"minecraft:attack_damage"},{amount:2.3d,id:"minecraft:5e5930aa-0f97-4797-90e2-65e7647452ce",operation:"add_value",slot:"mainhand",type:"minecraft:attack_speed"}]},"minecraft:custom_name":''{"extra":[{"bold":true,"color":"dark_blue","italic":false,"obfuscated":false,"strikethrough":false,"text":"Sculk ","underlined":false},{"bold":true,"color":"dark_gray","italic":false,"text":"Scythe"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:exp_hunter":3,"minecraft:looting":4,"minecraft:mending":1,"minecraft:sharpness":7,"minecraft:sweeping_edge":4,"minecraft:unbreaking":6,"minecraft:venom":2}},"minecraft:lore":[''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤
+              ","underlined":false},{"bold":false,"color":"gray","italic":false,"text":"Esta Guadaña parece que da más exp y parece"}],"text":""}'',''{"extra":[{"bold":false,"color":"gray","italic":false,"obfuscated":false,"strikethrough":false,"text":"Que Tendra chances de meter veneno","underlined":false}],"text":""}'']},count:1,id:"minecraft:netherite_sword"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    sculk_sword:
+      Type: ITEM
+      Weight: 75.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"dark_blue","italic":false,"obfuscated":false,"strikethrough":false,"text":"Sculk ","underlined":false},{"bold":true,"color":"dark_gray","italic":false,"text":"Sword"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:exp_hunter":3,"minecraft:looting":4,"minecraft:mending":1,"minecraft:sharpness":8,"minecraft:sweeping_edge":5,"minecraft:unbreaking":6,"minecraft:venom":2}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤
+              ","underlined":false},{"bold":false,"color":"gray","italic":false,"text":"Esta espada parece que da más exp y parece"}],"text":""}'',''{"extra":[{"bold":false,"color":"gray","italic":false,"obfuscated":false,"strikethrough":false,"text":"Que Tendra chances de meter veneno","underlined":false}],"text":""}'']},count:1,id:"minecraft:netherite_sword"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    epic_sword:
+      Type: ITEM
+      Weight: 80.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Epic ","underlined":false},{"bold":true,"color":"gray","italic":false,"text":"Sword"}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:knockback":2,"minecraft:looting":4,"minecraft:mending":1,"minecraft:sharpness":6,"minecraft:sweeping_edge":4,"minecraft:unbreaking":4}}},count:1,id:"minecraft:netherite_sword"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    espada_moldeable:
+      Type: ITEM
+      Weight: 85.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"gold","italic":false,"obfuscated":false,"strikethrough":false,"text":"Espada Moldeable","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:knockback":2,"minecraft:looting":3,"minecraft:sharpness":5,"minecraft:sweeping_edge":3,"minecraft:unbreaking":3}},"minecraft:lore":[''""'',''{"extra":[{"bold":false,"color":"yellow","italic":false,"obfuscated":false,"strikethrough":false,"text":"Una espada
+              que puede ser moldeada","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"yellow","italic":false,"obfuscated":false,"strikethrough":false,"text":"Por otras armas increibles","underlined":false}],"text":""}'']},count:1,id:"minecraft:netherite_sword"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    pico_3x3:
+      Type: ITEM
+      Weight: 87.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:custom_name":''{"extra":[{"bold":true,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Pico 3x3","underlined":false}],"text":""}'',"minecraft:enchantments":{levels:{"minecraft:efficiency":7,"minecraft:fortune":4,"minecraft:mending":2,"minecraft:tunnel":3,"minecraft:unbreaking":7}},"minecraft:lore":[''""'',''{"extra":[{"bold":true,"color":"white","italic":false,"obfuscated":false,"strikethrough":false,"text":"➤ ","underlined":false},{"bold":false,"color":"aqua","italic":false,"text":"Este
+              Pico no parece normal"}],"text":""}'',''{"extra":[{"bold":false,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Parece que al Picar minas 3x3 de bloques","underlined":false}],"text":""}'',''{"extra":[{"bold":false,"color":"aqua","italic":false,"obfuscated":false,"strikethrough":false,"text":"Servira para acabar con mas espacio al picar ¿no?","underlined":false}],"text":""}'']},count:1,id:"minecraft:diamond_pickaxe"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    diamond_axe:
+      Type: ITEM
+      Weight: 90.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:enchantments":{levels:{"minecraft:efficiency":7,"minecraft:fortune":4,"minecraft:mending":2,"minecraft:unbreaking":7}}},count:1,id:"minecraft:diamond_axe"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    diamond_pickaxe:
+      Type: ITEM
+      Weight: 90.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:enchantments":{levels:{"minecraft:efficiency":8,"minecraft:fortune":5,"minecraft:mending":2,"minecraft:unbreaking":8}}},count:1,id:"minecraft:diamond_pickaxe"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    diamond_shovel:
+      Type: ITEM
+      Weight: 90.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{components:{"minecraft:enchantments":{levels:{"minecraft:efficiency":7,"minecraft:fortune":4,"minecraft:mending":2,"minecraft:unbreaking":7}}},count:1,id:"minecraft:diamond_shovel"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    enchanted_golden_apple:
+      Type: ITEM
+      Weight: 100.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:3,id:"minecraft:enchanted_golden_apple"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    golden_apple:
+      Type: ITEM
+      Weight: 103.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:10,id:"minecraft:golden_apple"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189
+    shulker_box:
+      Type: ITEM
+      Weight: 105.0
+      Rarity: common
+      Broadcast: false
+      Placeholder_Apply: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Ignored_For_Permissions: []
+      Required_Permissions: []
+      Custom_Preview: false
+      ItemsData:
+        '0':
+          Type: VANILLA
+          Tag:
+            Value: '{count:1,id:"minecraft:shulker_box"}'
+            DataVersion: 4082
+      PreviewData:
+        Tag:
+          Value: '{}'
+          DataVersion: 4189

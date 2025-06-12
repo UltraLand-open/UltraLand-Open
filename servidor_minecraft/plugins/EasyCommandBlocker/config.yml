@@ -1,0 +1,80 @@
+tab:
+  default:
+    priority: 0
+    commands: 
+     - "/menu"
+     - "/login"
+     - "/register"
+     - "/warp"
+     - "/warps"
+     - "/shop"
+     - "/msg"
+     - "/tell"
+     - "/r"
+     - "/tpa"
+     - "/tpaccept"
+     - "/tpdeny"
+     - "/tpcancel"
+     - "/tpacancel"
+     - "/back"
+     - "/sethome"
+     - "/home"
+     - "/sethome"
+     - "/homes"
+     - "/skills"
+     - "/reward"
+     - "/rewards"
+     - "/jobs browse"
+     - "/balance"
+     - "/eenchants list"
+     - "/kits inicial"
+     - "/kits"
+     - "/skin set [Nombre de jugador premium]"
+     - "/skin url [URL] slim"
+     - "/skin url [URL] classic"
+     - "/skin undo"
+     - "/skin update"
+     - "/skin menu"
+     - "/tpahere"
+     - "/warp armaduras"
+     - "/warp armas"
+     - "/warp crates"
+     - "/warp rtp"
+     - "/warp tienda"
+    
+  vip:
+    priority: 1
+    extends: default
+    commands:
+      - "/home"
+blocked_command_default_actions:
+  - "message: &6&l[&e&lUltraLand&6&l] &cTu no tienes permiso para usar ese comando >:( ."
+  - "playsound: BLOCK_NOTE_BLOCK_PLING;10;0.1"
+  - "title:"
+use_commands_as_whitelist: false
+is_network: false
+update_notify: true
+commands:
+  - "/?"
+  - "/bukkit:?"
+  - "/bukkit:ver"
+  - "/bukkit:version"
+  - "/bukkit:pl"
+  - "/bukkit:plugins"
+  - "/bukkit:help"
+  - "/bukkit:about"
+  - "/ver"
+  - "/version"
+  - "/plugins"
+  - "/pl"
+  - "/minecraft:me"
+  - "/about"
+  - "/icanhasbukkit"
+custom_commands_actions:
+  example1:
+    commands:
+      - "/ver"
+      - "/version"
+      - "/about"
+    actions:
+      - "console_command: kick %player% You can't see the version of the server!"

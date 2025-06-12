@@ -1,0 +1,17 @@
+kits:
+  inicial:
+    delay: 2592000
+    items:
+    - netherite_sword 1 name:&f&lSteel_Sword sharpness:2 sweeping_edge:1 unbreaking:2
+    - iron_pickaxe 1 efficiency:3 fortune:1 unbreaking:2
+    - iron_axe 1 efficiency:3 unbreaking:2
+    - iron_shovel 1 efficiency:3 unbreaking:2
+    - oak_log 16
+    - cooked_beef 16
+    - water_bucket 1
+    - torch 32
+    - cobblestone 64
+    - iron_helmet 1 protection:2 unbreaking:2
+    - iron_chestplate 1 protection:2 unbreaking:2
+    - iron_leggings 1 protection:2 unbreaking:2
+    - iron_boots 1 feather_falling:2 protection:2 unbreaking:2
