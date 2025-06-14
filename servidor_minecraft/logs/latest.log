@@ -5182,3 +5182,33 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 	... 74 more
 [17:08:53] [Server thread/INFO]: ItsSoulTime issued server command: /crates key giveall rara_key 2
 [17:09:51] [Server thread/INFO]: ItsSoulTime issued server command: /invsee M23nlight
+[17:10:39] [Server thread/INFO]: ItsSoulTime issued server command: /invsee M23nlight
+[17:11:45] [Server thread/INFO]: ItsSoulTime issued server command: /home casa
+[17:11:58] [Server thread/INFO]: M23nlight issued server command: /home
+[17:12:06] [Server thread/INFO]: ItsSoulTime issued server command: /crates key giveall rara_key 3}
+[17:12:07] [Server thread/INFO]: ItsSoulTime issued server command: /crates key giveall rara_key 3
+[17:12:11] [Server thread/INFO]: ItsSoulTime issued server command: /warps crates
+[17:13:37] [Server thread/INFO]: [User] M23nlight  ah pasado por la muricion.
+[17:13:37] [Server thread/INFO]: ItsSoulTime issued server command: /homes
+[17:13:48] [Server thread/INFO]: M23nlight issued server command: /back}
+[17:13:57] [Server thread/INFO]: M23nlight issued server command: /back M23nlight
+[17:14:15] [Server thread/INFO]: [User] M23nlight  ah pasado por la muricion.
+[17:14:16] [Async Chat Thread - #3/INFO]: [Admin] ItsSoulTime  » ./back
+[17:14:22] [Server thread/INFO]: Villager Villager['Armorer'/9046, uuid='0cb79dc6-e572-4106-bce7-3abdd67247e9', l='ServerLevel[world]', x=318.76, y=69.00, z=-705.09, cpos=[19, -45], tl=35319, v=true] died, message: 'Armorer was slain by Zombie'
+[17:14:24] [Server thread/INFO]: M23nlight issued server command: /back
+[17:14:36] [Server thread/INFO]: ItsSoulTime issued server command: /lp group user permission set essentials.back true
+[17:14:36] [luckperms-command-executor/INFO]: [LP] LOG > (ItsSoulTime) [G] (user)
+[17:14:36] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.back true
+[17:15:21] [Server thread/INFO]: M23nlight issued server command: /back
+[17:15:36] [Server thread/INFO]: [User] M23nlight  ah pasado por la muricion.
+[17:15:45] [Server thread/INFO]: M23nlight issued server command: /back
+[17:16:37] [Server thread/INFO]: ItsSoulTime issued server command: /gm spectator M23nlight
+[17:17:14] [Server thread/INFO]: Unknown or incomplete command, see below for error
+dwad<--[HERE]
+[17:18:27] [Server thread/INFO]: ItsSoulTime issued server command: /homes
+[17:18:44] [Server thread/INFO]: ItsSoulTime issued server command: /gm 0 M23nlight
+[17:19:26] [Server thread/INFO]: M23nlight issued server command: /home
+[17:19:40] [Server thread/INFO]: ItsSoulTime issued server command: /kitreset inicial M23nlight
+[17:19:54] [Server thread/INFO]: M23nlight issued server command: /kits
+[17:20:01] [Server thread/INFO]: ItsSoulTime issued server command: /crate key give M23nlight rara_key 5
+[17:20:09] [Server thread/INFO]: M23nlight issued server command: /kits inicial
