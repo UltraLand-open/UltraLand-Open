@@ -19,9 +19,9 @@ timestamps:
   logout: 1749851020963
   login: 1749915704431
   kits:
-    inicial: 0
+    inicial: 1749916444605
     color: 0
-money: '0'
+money: '13000'
 last-account-name: ItsSoulTime
 logoutlocation:
   world: c5ef02c7-1507-4d08-ae29-d88aa84afda7

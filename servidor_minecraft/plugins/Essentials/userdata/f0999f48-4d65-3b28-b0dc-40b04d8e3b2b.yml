@@ -11,14 +11,16 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1749916752004
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
   logout: 1749916091382
   login: 1749916111959
-money: '0'
+  kits:
+    inicial: 1749916445710
+money: '12963.78'
 last-account-name: M23nlight
 logoutlocation:
   world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
@@ -28,3 +30,11 @@ logoutlocation:
   z: -7.300000011920929
   yaw: 179.8148193359375
   pitch: 4.468698501586914
+lastlocation:
+  world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
+  world-name: etc
+  x: 2.300000011920929
+  y: 220.0
+  z: -10.746495038847952
+  yaw: 84.41265869140625
+  pitch: 6.299968242645264
