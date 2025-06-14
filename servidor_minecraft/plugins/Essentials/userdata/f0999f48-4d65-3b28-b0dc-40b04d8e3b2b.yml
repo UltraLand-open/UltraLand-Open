@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749919131516
+  logout: 1749922380733
   login: 1749919251466
   kits:
     inicial: 1749921609397
@@ -25,11 +25,11 @@ last-account-name: M23nlight
 logoutlocation:
   world: ed1fd618-588c-49ae-a7e8-06b5d5fcdf56
   world-name: world
-  x: 682.2147339737691
+  x: 682.5737095314762
   y: 123.0
-  z: 841.1743718415374
-  yaw: -137.13510131835938
-  pitch: 32.10002517700195
+  z: 842.8101863344946
+  yaw: -99.63491821289062
+  pitch: 25.050003051757812
 lastlocation:
   world: ed1fd618-588c-49ae-a7e8-06b5d5fcdf56
   world-name: world

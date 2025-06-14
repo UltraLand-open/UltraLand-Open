@@ -2,7 +2,7 @@ uuid: f0999f48-4d65-3b28-b0dc-40b04d8e3b2b
 skills:
   auraskills/fighting:
     level: 1
-    xp: 99.0
+    xp: 107.0
   auraskills/foraging:
     level: 0
     xp: 12.400000000000002
@@ -26,7 +26,7 @@ skills:
     xp: 35.0
   auraskills/agility:
     level: 3
-    xp: 27.283659999999983
+    xp: 97.88649999999998
   auraskills/alchemy:
     level: 0
     xp: 0.0
