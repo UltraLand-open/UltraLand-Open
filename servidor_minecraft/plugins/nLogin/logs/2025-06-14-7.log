@@ -1,0 +1,19 @@
+[2025/06/14 18:00:34]: §9          __             _       
+[2025/06/14 18:00:34]: §9  _ __   / /  ___   __ _(_)_ __  
+[2025/06/14 18:00:34]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2025/06/14 18:00:34]: §9 | | | / /__| (_) | (_| | | | | |
+[2025/06/14 18:00:34]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2025/06/14 18:00:34]: §9                  |___/            
+[2025/06/14 18:00:34]: §9 By: www.nickuc.com - V 10.4.23 DEVELOPMENT
+[2025/06/14 18:00:34]: §9 
+[2025/06/14 18:00:34]: §3[nLogin] [DEBUG] All settings were loaded in 89 ms.
+[2025/06/14 18:00:34]: §3[nLogin] [DEBUG] Loading the messages_es.yml message file...
+[2025/06/14 18:00:34]: §3[nLogin] [DEBUG] All plugin messages were loaded in 62 ms (languageByClient=false).
+[2025/06/14 18:00:34]: §3[nLogin] [DEBUG] All proxy settings were loaded in 3 ms.
+[2025/06/14 18:00:34]: §3[nLogin] [DEBUG] Loading database...
+[2025/06/14 18:00:34]: §3[nLogin] [DEBUG] Starting logger filter...
+[2025/06/14 18:01:18]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'ItsSoulTime', `unique_id` = 9f68d785ad113babbb36393a7edbfffb,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$zq9frgZw8NsYWxh.FXstf.JO.hwaMm3D1A9P.ULuRAYvEGlssJGpe', `last_ip` = '127.207.40.132', `creation_date` = 2025-06-13 21:43:18.893, `last_seen` = 2025-06-14 18:01:18.356, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_ip, last_seen, settings] columns)
+[2025/06/14 18:01:18]: [nLogin] The user ItsSoulTime has successfully logged in.
+[2025/06/14 18:01:20]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = 'M23nlight', `unique_id` = f0999f484d653b28b0dc40b04d8e3b2b,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$qTA9N/Icyc.1OU19SHk8ZuY9Xz5CQA1AjSf8lnxCxlHcIO9mGxnOa', `last_ip` = '127.117.135.64', `creation_date` = 2025-06-14 15:48:50.222, `last_seen` = 2025-06-14 18:01:20.324, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"es","key":"language"}],"version":0}' WHERE `ai` = 4" (applied to [last_ip, last_seen, settings] columns)
+[2025/06/14 18:01:20]: [nLogin] The user M23nlight has successfully logged in.
+[2025/06/14 18:03:04]: [nLogin] Successful plugin core shutdown (took 0.00s)

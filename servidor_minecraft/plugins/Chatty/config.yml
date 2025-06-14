@@ -95,7 +95,7 @@ chats:
     enable: true
     display-name: 'Global'
     format: '&r{prefix} &f&r%player_name% {suffix} &b► &f{message}'
-    range: -1
+    range: -2
     symbol: ''
     cooldown: -1
     command: 'globalchat'
@@ -128,17 +128,17 @@ chats:
 # * PRIVATE MESSAGING
 pm:
   # Enables private messaging function.
-  enable: true
+  enable: false 
 
   # Allows console to messaging players
   # and messaging players to console.
   # Default: false
-  allow-console: false
+  allow-console: true
 
   # Allows to PM players, that in vanish
   # Supports EssentialsX, SuperVanish, PremiumVanish, VanishNoPacket etc.
   # Default: true
-  allow-pm-vanished: false
+  allow-pm-vanished: true
 
   # Format of messages
   #
@@ -610,7 +610,7 @@ miscellaneous:
       enable: true
 
       # Set to '' if you want to make it hidden.
-      message: '&8> &e{prefix}{player}{suffix} &se ah unido al server.'
+      message: '&r{prefix} &b{player} {suffix} &fse ah unido al server.'
 
       # Plays sound to all, when player joins.
       # Remove the line if not needed.
@@ -641,7 +641,7 @@ miscellaneous:
       enable: true
 
       # Set to '' if you want to make it hidden.
-      message: '&8> &e{prefix}{player}{suffix} se ah ido del server.'
+      message: '&r{prefix} &f&r%player_name% {suffix} &cse ah ido del server.'
 
       # Plays sound to all, when player quits.
       # Remove the line if not needed.
@@ -659,7 +659,7 @@ miscellaneous:
       enable: true
 
       # Set to '' if you want to make it hidden.
-      message: '&8> &e{prefix}{player}{suffix} a pasado por la muricion.'
+      message: '&r{prefix} &f&r%player_name% {suffix} &ea pasado por la muricion.'
 
       # Plays sound to all, when player dies.
       # Remove the line if not required.

@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1749921799274
+  lastteleport: 1749939181362
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749923960666
-  login: 1749923702195
+  logout: 1749939787613
+  login: 1749928477547
   kits:
     inicial: 1749916444605
     color: 0
-money: '10318.412499999999983'
+money: '13549.54999999999817404'
 last-account-name: ItsSoulTime
 logoutlocation:
-  world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
-  world-name: etc
-  x: 9.990225837538398
-  y: 220.0
-  z: -1.4043345181267988
-  yaw: 106.0595703125
-  pitch: 29.55786895751953
+  world: ed1fd618-588c-49ae-a7e8-06b5d5fcdf56
+  world-name: world
+  x: 278.04714363990735
+  y: 68.0
+  z: -764.484195417909
+  yaw: -39.49188232421875
+  pitch: 4.561730861663818
 lastlocation:
   world: ed1fd618-588c-49ae-a7e8-06b5d5fcdf56
   world-name: world
-  x: 272.76350521907005
-  y: 69.0
-  z: -774.8246257053069
-  yaw: 107.80342102050781
-  pitch: 10.931046485900879
+  x: 311.4195603547705
+  y: 67.0
+  z: -819.3000000119209
+  yaw: 57.202301025390625
+  pitch: 37.346534729003906
