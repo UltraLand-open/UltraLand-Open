@@ -36,3 +36,4 @@
 2025-06-14 16:24:37 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=706.5,y=74.0,z=18.5,pitch=2.5946946,yaw=80.09064}
 2025-06-14 16:25:11 [INFO]: M23nlight executed: /rtp world world
 2025-06-14 16:25:16 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=731.5,y=69.0,z=668.5,pitch=0.4187026,yaw=110.51492}
+2025-06-14 16:38:51 [INFO]: Disabling BetterRTP v3.6.13

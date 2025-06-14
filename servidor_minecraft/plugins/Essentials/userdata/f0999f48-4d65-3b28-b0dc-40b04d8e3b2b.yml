@@ -16,20 +16,20 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1749918056515
+  logout: 1749919131516
   login: 1749918084812
   kits:
     inicial: 1749916445710
 money: '10494.3500000000000005'
 last-account-name: M23nlight
 logoutlocation:
-  world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
-  world-name: etc
-  x: -1.2884534928367017
-  y: 230.0
-  z: -35.97489398964262
-  yaw: 83.8401870727539
-  pitch: 7.657766342163086
+  world: ed1fd618-588c-49ae-a7e8-06b5d5fcdf56
+  world-name: world
+  x: 682.2147339737691
+  y: 123.0
+  z: 841.1743718415374
+  yaw: -137.13510131835938
+  pitch: 32.10002517700195
 lastlocation:
   world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
   world-name: etc
