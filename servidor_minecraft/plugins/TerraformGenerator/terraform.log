@@ -2667,3 +2667,5 @@
 [2025-06-14 16:48:05] [INFO   ] Falling back to NMS bee spawning (addEntity api not present) 
 [2025-06-14 16:52:48] [INFO   ] Spawning LushClusterCavePopulator at 128,6,-1024 
 [2025-06-14 16:52:53] [INFO   ] Spawning CaveFluidClusterPopulator at 120,-28,-1040 
+[2025-06-14 17:00:34] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: 44,-44 
+[2025-06-14 17:00:34] [INFO   ] Spawning Underground Dungeon at 709,84,-690 
