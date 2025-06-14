@@ -2665,3 +2665,5 @@
 [2025-06-14 16:46:03] [INFO   ] Spawning MossyCavePopulator at 48,-12,-496 
 [2025-06-14 16:46:32] [INFO   ] Spawning DeepCavePopulator at 80,-48,-464 
 [2025-06-14 16:48:05] [INFO   ] Falling back to NMS bee spawning (addEntity api not present) 
+[2025-06-14 16:52:48] [INFO   ] Spawning LushClusterCavePopulator at 128,6,-1024 
+[2025-06-14 16:52:53] [INFO   ] Spawning CaveFluidClusterPopulator at 120,-28,-1040 
