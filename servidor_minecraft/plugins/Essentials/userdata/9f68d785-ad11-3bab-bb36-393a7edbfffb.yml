@@ -21,7 +21,7 @@ timestamps:
   kits:
     inicial: 1749916444605
     color: 0
-money: '13000'
+money: '12506.0'
 last-account-name: ItsSoulTime
 logoutlocation:
   world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
@@ -34,8 +34,8 @@ logoutlocation:
 lastlocation:
   world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
   world-name: etc
-  x: 20.5
-  y: 205.0
-  z: -6.5
-  yaw: -0.759857177734375
-  pitch: 1.8077644109725952
+  x: 2.0995197236509426
+  y: 220.5
+  z: -6.150509380754994
+  yaw: 47.333587646484375
+  pitch: 0.6425889730453491

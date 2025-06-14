@@ -17,3 +17,18 @@
 2025-06-14 15:41:31 [INFO]: Attempting to queue up some more safe locations...
 2025-06-14 15:41:31 [INFO]: Queueing paused, max queue limit reached!
 2025-06-14 15:59:27 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:02:29 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:02:31 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:02:43 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:02:48 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-272.5,y=70.0,z=88.5,pitch=35.434277,yaw=-108.19812}
+2025-06-14 16:03:47 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:03:49 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:03:51 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:03:52 [INFO]: ItsSoulTime executed: /rtp world world
+2025-06-14 16:03:53 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-226.5,y=70.0,z=-861.5,pitch=3.1341462,yaw=38.88379}
+2025-06-14 16:03:53 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:04:01 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:04:26 [INFO]: ItsSoulTime executed: /rtp world world
+2025-06-14 16:04:26 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-490.5,y=63.0,z=-713.5,pitch=0.642589,yaw=47.333588}
+2025-06-14 16:04:26 [INFO]: M23nlight executed: /rtp world world
+2025-06-14 16:05:07 [INFO]: M23nlight executed: /rtp world world
