@@ -5476,3 +5476,17 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [16:19:41] [Server thread/INFO]: M23nlight issued server command: /menu
 [16:19:58] [Server thread/INFO]: M23nlight issued server command: /menu
 [16:20:26] [Async Chat Thread - #16/INFO]: [Admin] ItsSoulTime  » ./warps
+[16:20:56] [Server thread/INFO]: M23nlight lost connection: Timed out
+[16:20:56] [Server thread/INFO]: > [User] M23nlight  se ah ido del servidor.
+[16:21:16] [User Authenticator #4/INFO]: UUID of player M23nlight is f0999f48-4d65-3b28-b0dc-40b04d8e3b2b
+[16:21:24] [Server thread/INFO]: [User] M23nlight  a entrado al servidor.
+[16:21:24] [Server thread/INFO]: M23nlight[/127.117.135.64:37831] logged in with entity id 5364 at ([etc]8.517708148173476, 220.0, -7.300000011920929)
+[16:21:40] [Folia Async Scheduler Thread #3/INFO]: [nLogin] The user M23nlight has successfully logged in.
+[16:22:10] [Server thread/INFO]: ItsSoulTime issued server command: /tpa M23nlight
+[16:22:21] [Server thread/INFO]: M23nlight issued server command: /tpaccept
+[16:22:48] [Server thread/INFO]: Shop >> ItsSoulTime vendido 80 x Amethyst Shard(Ores.page1.items.2) para 26.40€ con el pantalla de venta.
+[16:23:09] [Server thread/INFO]: Shop >> M23nlight compró 1 x Amethyst Shard(Ores.page1.items.2) para 1.32€ con el comprar pantalla.
+[16:23:10] [Server thread/INFO]: Shop >> M23nlight compró 1 x Amethyst Shard(Ores.page1.items.2) para 1.32€ con el comprar pantalla.
+[16:23:49] [Server thread/INFO]: Shop >> ItsSoulTime vendido 189 x Amethyst Block(Ores.page1.items.1) para 260.82€ con el pantalla de venta rápida.
+[16:24:03] [Server thread/INFO]: Shop >> M23nlight vendido 20 x Amethyst Shard(Ores.page1.items.2) para 6.60€ con el pantalla de venta.
+[16:24:12] [Server thread/INFO]: Shop >> M23nlight vendido 20 x Gold Ingot(Ores.page1.items.14) para 41.40€ con el pantalla de venta.
