@@ -1,11 +1,11 @@
 uuid: 9f68d785-ad11-3bab-bb36-393a7edbfffb
 skills:
   auraskills/mining:
-    level: 0
-    xp: 0.0
+    level: 3
+    xp: 256.07999999999925
   auraskills/fighting:
     level: 0
-    xp: 0.0
+    xp: 29.0
   auraskills/enchanting:
     level: 0
     xp: 0.0
@@ -13,8 +13,8 @@ skills:
     level: 0
     xp: 0.0
   auraskills/agility:
-    level: 0
-    xp: 21.0
+    level: 1
+    xp: 40.64200000000002
   auraskills/excavation:
     level: 0
     xp: 0.0
@@ -26,7 +26,7 @@ skills:
     xp: 0.0
   auraskills/defense:
     level: 0
-    xp: 0.0
+    xp: 19.894999980926514
   auraskills/alchemy:
     level: 0
     xp: 0.0
@@ -46,7 +46,7 @@ skills:
     level: 0
     xp: 0.0
 locale: es
-mana: 20.0
+mana: 22.0
 action_bar:
   idle: true
 ability_data:
