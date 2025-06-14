@@ -17,11 +17,11 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1749851020963
-  login: 1749850991361
+  login: 1749915704431
   kits:
     inicial: 0
     color: 0
-money: '44557.68'
+money: '0'
 last-account-name: ItsSoulTime
 logoutlocation:
   world: c5ef02c7-1507-4d08-ae29-d88aa84afda7
