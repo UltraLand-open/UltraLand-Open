@@ -1,33 +1,20 @@
-2025-06-14 18:16:12 [INFO]: Loading Overrides...
-2025-06-14 18:16:12 [INFO]: Loading World Types...
-2025-06-14 18:16:12 [INFO]: - World Type for 'world' set to 'NORMAL'
-2025-06-14 18:16:12 [INFO]: - World Type for 'world_nether' set to 'NETHER'
-2025-06-14 18:16:12 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
-2025-06-14 18:16:12 [INFO]: Loading Defaults...
-2025-06-14 18:16:12 [INFO]: Loading Custom Worlds...
-2025-06-14 18:16:12 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
-2025-06-14 18:16:12 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
-2025-06-14 18:16:12 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
-2025-06-14 18:16:18 [INFO]: Database PLAYERS:Players configured and loaded!
-2025-06-14 18:16:18 [INFO]: Database COOLDOWN:world configured and loaded!
-2025-06-14 18:16:18 [INFO]: Database COOLDOWN:world_nether configured and loaded!
-2025-06-14 18:16:18 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
-2025-06-14 18:16:18 [INFO]: Database QUEUE:Queue configured and loaded!
-2025-06-14 18:16:18 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
-2025-06-14 18:16:19 [INFO]: Attempting to queue up some more safe locations...
-2025-06-14 18:16:19 [INFO]: Queueing paused, max queue limit reached!
-2025-06-14 18:17:00 [INFO]: M23nlight executed: /rtp world world
-2025-06-14 18:17:06 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-237.5,y=63.0,z=780.5,pitch=15.568717,yaw=-105.33513}
-2025-06-14 18:24:27 [WARNING]: Seems like the world `etc` does not have a `WorldType` declared. Please add/fix this in the config.yml file! This world will be treated as an overworld! If this world is a nether world, configure it to NETHER (example: `- etc: NETHER`
-2025-06-14 18:27:22 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-738.5,y=44.0,z=-540.5,pitch=16.726112,yaw=4.6030884}
-2025-06-14 19:08:15 [INFO]: M23nlight executed: /rtp world world
-2025-06-14 19:08:20 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-657.5,y=72.0,z=84.5,pitch=26.18788,yaw=146.92299}
-2025-06-14 19:38:16 [INFO]: M23nlight executed: /rtp world world
-2025-06-14 19:38:20 [INFO]: M23nlight executed: /rtp world world
-2025-06-14 19:38:25 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=679.5,y=71.0,z=958.5,pitch=0.9077588,yaw=122.24016}
-2025-06-14 20:04:29 [INFO]: M23nlight executed: /rtp world world
-2025-06-14 20:04:30 [INFO]: M23nlight executed: /rtp world world
-2025-06-14 20:04:35 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-569.5,y=68.0,z=227.5,pitch=35.21869,yaw=-144.48524}
-2025-06-14 20:10:19 [INFO]: M23nlight executed: /rtp world world
-2025-06-14 20:10:20 [INFO]: M23nlight executed: /rtp world world
-2025-06-14 22:23:33 [INFO]: Disabling BetterRTP v3.6.13
+2025-06-15 23:36:02 [INFO]: Loading Overrides...
+2025-06-15 23:36:02 [INFO]: Loading World Types...
+2025-06-15 23:36:02 [INFO]: - World Type for 'world' set to 'NORMAL'
+2025-06-15 23:36:02 [INFO]: - World Type for 'world_nether' set to 'NETHER'
+2025-06-15 23:36:02 [INFO]: - World Type for 'world_the_end' set to 'NORMAL'
+2025-06-15 23:36:02 [INFO]: Loading Defaults...
+2025-06-15 23:36:02 [INFO]: Loading Custom Worlds...
+2025-06-15 23:36:02 [INFO]: [WARN] - Custom World 'custom_world_1' was not registered because world does NOT exist
+2025-06-15 23:36:02 [INFO]: [WARN] - Custom World 'other_custom_world' was not registered because world does NOT exist
+2025-06-15 23:36:02 [SEVERE]: The particle 'EXPLOSION_NORMAL' created a fatal error when loading particles! Your MC version isn't supported!
+2025-06-15 23:36:11 [INFO]: Database PLAYERS:Players configured and loaded!
+2025-06-15 23:36:11 [INFO]: Database CHUNK_DATA:ChunkData configured and loaded!
+2025-06-15 23:36:11 [INFO]: Database QUEUE:Queue configured and loaded!
+2025-06-15 23:36:11 [INFO]: Database COOLDOWN:world configured and loaded!
+2025-06-15 23:36:11 [INFO]: Database COOLDOWN:world_nether configured and loaded!
+2025-06-15 23:36:11 [INFO]: Database COOLDOWN:world_the_end configured and loaded!
+2025-06-15 23:36:13 [INFO]: Attempting to queue up some more safe locations...
+2025-06-15 23:36:13 [INFO]: Queueing paused, max queue limit reached!
+2025-06-15 23:37:59 [INFO]: M23nlight executed: /rtp world world
+2025-06-15 23:38:04 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-564.5,y=81.0,z=868.5,pitch=14.668718,yaw=38.064453}
