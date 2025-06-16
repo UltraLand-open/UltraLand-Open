@@ -216,3 +216,19 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [00:52:39] [Server thread/INFO]: Shop >> M23nlight compró 10 x Wheat Seeds(Farming.page1.items.29) para 30.00€ con el comprar pantalla.
 [00:54:12] [Server thread/INFO]: ItsSoulTime issued server command: /homes
 [00:55:39] [Server thread/INFO]: ItsSoulTime issued server command: /homes
+[00:58:12] [Server thread/INFO]: ItsSoulTime has made the advancement [What a Deal!]
+[01:02:39] [Server thread/INFO]: M23nlight has made the advancement [Not Today, Thank You]
+[01:02:44] [Server thread/INFO]: ItsSoulTime issued server command: /invsee
+[01:02:46] [Server thread/INFO]: ItsSoulTime issued server command: /invsee M23nlight
+[01:03:23] [Server thread/INFO]: M23nlight issued server command: /home
+[01:03:57] [Server thread/INFO]: [User] M23nlight  a pasado por la muricion.
+[01:04:11] [Async Chat Thread - #9/INFO]: [Admin] ItsSoulTime  ► wey
+[01:04:14] [Async Chat Thread - #9/INFO]: [Admin] ItsSoulTime  ► ._:
+[01:04:16] [Async Chat Thread - #9/INFO]: [Admin] ItsSoulTime  ► ._.
+[01:04:32] [Async Chat Thread - #9/INFO]: [User] M23nlight  ► sorryyyyyyyyyy
+[01:04:50] [Async Chat Thread - #9/INFO]: [Admin] ItsSoulTime  ► piola el flood :v
+[01:05:12] [Async Chat Thread - #9/INFO]: [User] M23nlight  ► sorry memoria muscular
+[01:05:26] [Async Chat Thread - #9/INFO]: [Admin] ItsSoulTime  ► porque moriste?
+[01:06:06] [Server thread/INFO]: ItsSoulTime issued server command: /shop
+[01:06:07] [Server thread/INFO]: M23nlight issued server command: /home
+[01:06:21] [Server thread/INFO]: Shop >> ItsSoulTime compró 64 x Bread(Food.page1.items.2) para 1,008.00€ con el comprar pantalla.
