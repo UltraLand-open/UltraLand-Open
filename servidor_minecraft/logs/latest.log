@@ -208,3 +208,11 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [00:43:04] [Async Chat Thread - #7/INFO]: [Admin] ItsSoulTime  ► no duermas
 [00:45:19] [Server thread/INFO]: M23nlight has made the advancement [Take Aim]
 [00:45:25] [Server thread/INFO]: ItsSoulTime issued server command: /invsee M23nlight
+[00:49:32] [Server thread/INFO]: ItsSoulTime issued server command: /shop
+[00:50:04] [Server thread/INFO]: ItsSoulTime issued server command: /shop
+[00:52:03] [Server thread/INFO]: ItsSoulTime issued server command: /homes
+[00:52:12] [Server thread/INFO]: M23nlight has made the advancement [A Seedy Place]
+[00:52:28] [Server thread/INFO]: M23nlight issued server command: /shop
+[00:52:39] [Server thread/INFO]: Shop >> M23nlight compró 10 x Wheat Seeds(Farming.page1.items.29) para 30.00€ con el comprar pantalla.
+[00:54:12] [Server thread/INFO]: ItsSoulTime issued server command: /homes
+[00:55:39] [Server thread/INFO]: ItsSoulTime issued server command: /homes
