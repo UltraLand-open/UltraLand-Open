@@ -18,3 +18,5 @@
 2025-06-15 23:36:13 [INFO]: Queueing paused, max queue limit reached!
 2025-06-15 23:37:59 [INFO]: M23nlight executed: /rtp world world
 2025-06-15 23:38:04 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=-564.5,y=81.0,z=868.5,pitch=14.668718,yaw=38.064453}
+2025-06-16 01:08:00 [INFO]: M23nlight executed: /rtp world world
+2025-06-16 01:08:05 [INFO]: -Removed a queue Location{world=CraftWorld{name=world},x=310.5,y=50.0,z=-807.5,pitch=-13.915599,yaw=94.30181}

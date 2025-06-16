@@ -232,3 +232,52 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [01:06:06] [Server thread/INFO]: ItsSoulTime issued server command: /shop
 [01:06:07] [Server thread/INFO]: M23nlight issued server command: /home
 [01:06:21] [Server thread/INFO]: Shop >> ItsSoulTime compró 64 x Bread(Food.page1.items.2) para 1,008.00€ con el comprar pantalla.
+[01:06:38] [Server thread/INFO]: M23nlight issued server command: /home
+[01:07:17] [Server thread/INFO]: ItsSoulTime issued server command: /summon minecraft:villager
+[01:07:17] [Server thread/INFO]: [ItsSoulTime: Summoned new Villager]
+[01:07:57] [Server thread/INFO]: M23nlight issued server command: /warp
+[01:08:23] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► JAJAJAJAJAJJAJJJJJJJJJJJJJJJJJ
+[01:08:29] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► seba
+[01:08:38] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► que pasa?
+[01:08:46] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► salvame
+[01:09:09] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► que hiciste wey?
+[01:09:13] [Server thread/INFO]: ItsSoulTime issued server command: /tpa M23nlight
+[01:09:16] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► recuerdas el oyo?
+[01:09:27] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► la verdad no
+[01:09:34] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► ya me voy a desconectar
+[01:09:38] [Server thread/INFO]: ItsSoulTime issued server command: /tpcancel
+[01:09:40] [Server thread/INFO]: ItsSoulTime issued server command: /tpcancel M23nlight
+[01:09:42] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► el oyo de la foto de discord
+[01:09:52] [Server thread/INFO]: M23nlight issued server command: /tpaccept
+[01:09:58] [Server thread/INFO]: ItsSoulTime issued server command: /home
+[01:10:19] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► neta
+[01:10:33] [Server thread/INFO]: ItsSoulTime issued server command: /shop
+[01:10:36] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► apareci aqui en tp random
+[01:11:13] [Server thread/INFO]: ItsSoulTime issued server command: /shop
+[01:11:28] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► enserio tp random?
+[01:11:34] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► si
+[01:11:53] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► tienes la epic sword
+[01:11:57] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► no?
+[01:12:06] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► ya tengo gracias
+[01:12:11] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► si
+[01:12:11] [Server thread/INFO]: ItsSoulTime issued server command: /ec
+[01:12:44] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► te di el tótem para que no te mueras tanto
+[01:12:46] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► por q le daba un pollo? XD
+[01:12:52] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► a noe
+[01:12:53] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► a nose
+[01:13:31] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► y bueno
+[01:13:40] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► este oyo es mi futura base
+[01:13:48] [Server thread/INFO]: ItsSoulTime issued server command: /shop
+[01:14:03] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► acabo de matar un cerdo a distancia
+[01:14:15] [Server thread/INFO]: Shop >> ItsSoulTime compró 16 x Firework Rocket(Miscellaneous.page1.items.999) para 4,848.00€ con el comprar pantalla.
+[01:14:32] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► tenes elytras?
+[01:14:57] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► nop
+[01:15:06] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► no te podes comprar
+[01:15:17] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► lo q quiero es un pico 3x3
+[01:15:52] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► lo que puedo hacer
+[01:15:57] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► es dar 2 key all
+[01:16:11] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► un key all es dar todas las llaves chetadas
+[01:16:12] [Async Chat Thread - #11/INFO]: [User] M23nlight  ► aceptas por un bloque tierra?
+[01:16:20] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► se hace gratis :v
+[01:16:41] [Async Chat Thread - #11/INFO]: [Admin] ItsSoulTime  ► cada fin de semana voy a hacer un key all
+[01:16:44] [Async Chat Thread - #12/INFO]: [User] M23nlight  ► te regalo uno de tierra si lo haces
