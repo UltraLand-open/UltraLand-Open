@@ -419,3 +419,7 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [01:26:13] [Async Chat Thread - #14/INFO]: [User] M23nlight  ► ¿?
 [01:26:29] [Server thread/INFO]: ItsSoulTime issued server command: /broadcast &e&lEl server cierra a las 11
 [01:26:47] [Server thread/INFO]: ItsSoulTime has made the advancement [Voluntary Exile]
+[01:27:20] [Server thread/INFO]: ItsSoulTime lost connection: Disconnected
+[01:27:20] [Server thread/INFO]: [Admin] ItsSoulTime  se ah ido del server.
+[01:30:48] [Server thread/INFO]: M23nlight issued server command: /shop
+[01:35:14] [Server thread/INFO]: M23nlight issued server command: /homes
