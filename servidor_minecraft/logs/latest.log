@@ -423,3 +423,12 @@ Caused by: java.lang.ClassCastException: Cannot cast net.minecraft.network.proto
 [01:27:20] [Server thread/INFO]: [Admin] ItsSoulTime  se ah ido del server.
 [01:30:48] [Server thread/INFO]: M23nlight issued server command: /shop
 [01:35:14] [Server thread/INFO]: M23nlight issued server command: /homes
+[01:39:15] [Server thread/INFO]: M23nlight issued server command: /sellall inventory
+[01:39:15] [Server thread/INFO]: Shop >> M23nlight vendido 17x Bone(Mobs.page1.items.4), 10x Tuff(Blocks.page4.items.188), 40x Lapis Lazuli(Ores.page1.items.18), 576x Cobbled Deepslate(Blocks.page2.items.94), 1x Water Bucket(Miscellaneous.page1.items.41), 21x Diorite(Blocks.page2.items.101), 11x Granite(Blocks.page3.items.122), 11x Andesite(Blocks.page1.items.12), 331x Cobblestone(Blocks.page1.items.51), 15x Arrow(Mobs.page1.items.1), 17x Redstone(Ores.page1.items.23) por 292.92€ con el vender todo el comando.
+[01:39:33] [Server thread/INFO]: M23nlight issued server command: /shop
+[01:39:50] [Server thread/INFO]: Shop >> M23nlight compró 1 x Potion(Potions.page1.items.8) para 16.34€ con el comprar pantalla.
+[01:44:55] [Server thread/INFO]: M23nlight issued server command: /shop
+[01:45:27] [Server thread/INFO]: Shop >> M23nlight vendido 256 x Cobbled Deepslate(Blocks.page2.items.94) para 43.52€ con el pantalla de venta.
+[01:45:29] [Server thread/INFO]: Shop >> M23nlight vendido 24 x Cobbled Deepslate(Blocks.page2.items.94) para 4.08€ con el pantalla de venta.
+[01:46:12] [Server thread/INFO]: Shop >> M23nlight compró 16 x Coal(Ores.page1.items.4) para 84.00€ con el comprar pantalla.
+[01:46:27] [Server thread/INFO]: Shop >> M23nlight compró 4 x Jungle Log(Blocks.page5.items.214) para 12.00€ con el comprar pantalla.
