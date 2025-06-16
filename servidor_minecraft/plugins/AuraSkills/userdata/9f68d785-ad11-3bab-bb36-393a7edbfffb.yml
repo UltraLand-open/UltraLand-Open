@@ -2,7 +2,7 @@ uuid: 9f68d785-ad11-3bab-bb36-393a7edbfffb
 skills:
   auraskills/mining:
     level: 8
-    xp: 20.66999999929305
+    xp: 655.829999999311
   auraskills/fighting:
     level: 4
     xp: 361.00000000000006
@@ -13,11 +13,11 @@ skills:
     level: 1
     xp: 75.39999999999965
   auraskills/agility:
-    level: 4
-    xp: 1680.4327000000014
+    level: 5
+    xp: 51.294700000001356
   auraskills/excavation:
     level: 4
-    xp: 76.6300000000406
+    xp: 109.63000000004071
   auraskills/fishing:
     level: 0
     xp: 0.0
@@ -46,7 +46,7 @@ skills:
     level: 0
     xp: 0.0
 locale: es
-mana: 34.0
+mana: 36.0
 action_bar:
   idle: true
 stat_modifiers:
@@ -62,6 +62,6 @@ stat_modifiers:
     value: 2.0
 ability_data:
   auraskills/xp_convert:
-    xp: 22.87797179641323
+    xp: 11.899971796411634
   auraskills/first_strike:
     counter: 6
